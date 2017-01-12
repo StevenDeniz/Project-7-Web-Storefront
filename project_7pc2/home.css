@@ -1,0 +1,99 @@
+header {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+
+    opacity: 0.8;
+    position: fixed;
+    float: right;
+    right: 100px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    list-style-type: none;
+    opacity: 1.0;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+body {
+    background-image: url("images/bg.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+
+
+}
+
+.divider {
+    border-left:1px solid white;
+    border-right:1px solid black;
+    height:80px;
+    position:absolute;
+    right:165px;
+    top:10px;
+}
+img {
+    height: 400px;
+    width: 400px;
+
+}
+.right {
+    color: white;
+}
+.left {
+    color: white;
+
+}
+#firstImage {
+    display: none;
+}
+#secondImage {
+
+}
+
+#thirdImage {
+    display: none;
+}
+#button1 {
+    color: dodgerblue;
+}
+#button2 {
+    color: dodgerblue;
+}
+#images {
+    margin-left: 40%;
+    margin-right: auto;
+}
+
+h1{
+    color: white;
+    font-style: oblique;
+    text-align: center;
+    font-size: 350%;
+    font-family: Zapfino;
+    background: linear-gradient(to right, black, black);
+    opacity: .9;
+
+}
