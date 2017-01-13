@@ -37,8 +37,18 @@ li a {
 li a:hover {
     background-color: #111;
 }
+<<<<<<< HEAD
 html{
     background-image: url("images/dark-blue-gradient-wallpaper-4.jpg");
+=======
+
+body {
+    background-image: url("images/bg.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+
+
+>>>>>>> dc87d90683055fde68269cd0cc3072a31d8a4351
 }
 
 .divider {
@@ -71,9 +81,12 @@ img {
 #thirdImage {
     display: none;
 }
+<<<<<<< HEAD
 #forthImage {
     display: none;
 }
+=======
+>>>>>>> dc87d90683055fde68269cd0cc3072a31d8a4351
 #button1 {
     color: dodgerblue;
 }
@@ -90,7 +103,11 @@ h1{
     font-style: oblique;
     text-align: center;
     font-size: 350%;
+<<<<<<< HEAD
     font-family: Apple Symbols;
+=======
+    font-family: Zapfino;
+>>>>>>> dc87d90683055fde68269cd0cc3072a31d8a4351
     background: linear-gradient(to right, black, black);
     opacity: .9;
 

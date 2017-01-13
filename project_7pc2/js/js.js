@@ -18,5 +18,8 @@ function showDivs(n) {
     }
     x[slideIndex-1].style.display = "block";
 }
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> dc87d90683055fde68269cd0cc3072a31d8a4351
