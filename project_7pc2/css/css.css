@@ -48,6 +48,11 @@ li a:hover {
     top:10px;
 }
 
+html {
+    background-image: url("images/blue.jpg");
+}
+
+
 h1 {
     padding: 2px 70px;
     font-family: "Apple Symbols";
