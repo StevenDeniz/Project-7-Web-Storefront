@@ -37,8 +37,13 @@ li a {
 li a:hover {
     background-color: #111;
 }
-html{
-    background-image: url("images/dark-blue-gradient-wallpaper-4.jpg");
+
+body {
+    background-image: url("images/bg.jpg");
+    background-color: black;
+    background-repeat: no-repeat;
+
+
 }
 
 .divider {
@@ -71,9 +76,6 @@ img {
 #thirdImage {
     display: none;
 }
-#forthImage {
-    display: none;
-}
 #button1 {
     color: dodgerblue;
 }
@@ -90,7 +92,7 @@ h1{
     font-style: oblique;
     text-align: center;
     font-size: 350%;
-    font-family: Apple Symbols;
+    font-family: Zapfino;
     background: linear-gradient(to right, black, black);
     opacity: .9;
 
