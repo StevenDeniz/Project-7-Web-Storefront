@@ -101,7 +101,10 @@ img {
 }
 #img {
     float: right;
+}
 
+.apic {
+    width: 600px; height: 500px;
 }
 p {
     color: white;
