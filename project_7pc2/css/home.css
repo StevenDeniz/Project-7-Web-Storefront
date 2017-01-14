@@ -39,7 +39,7 @@ li a:hover {
 }
 
 body {
-    background-image: url("images/blue.jpg");
+    background-image: url("../images/blue.jpg");
 }
 
 .divider {
@@ -88,7 +88,7 @@ img {
     margin-right: auto;
 }
 
-h1{
+.title{
     color: white;
     font-style: oblique;
     text-align: center;
@@ -98,4 +98,46 @@ h1{
     background: linear-gradient(to right, black, black);
     opacity: .9;
 
+}
+#img {
+    float: right;
+
+}
+p {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    padding: 2px 70px;
+    font-family: "Apple Symbols";
+    font-size: 20px;
+    margin-left: 40px;
+}
+font{
+    color: dodgerblue;
+}
+
+.about {
+    padding: 2px 70px;
+    font-family: "Apple Symbols";
+    font-size: 50px;
+    font-style: inherit;
+    margin-left: 40px;
+}
+
+.price {
+    color: green;
+}
+
+h2 {
+    color: white;
+}
+
+.store {
+    width:302px;
+    height:228px;
 }
