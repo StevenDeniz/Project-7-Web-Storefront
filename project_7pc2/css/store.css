@@ -4,44 +4,36 @@ header {
     padding: 0;
     overflow: hidden;
     background-color: black;
-
     opacity: 0.8;
     position: fixed;
     float: right;
     right: 100px;
 }
-
 ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
-
 }
-
 li {
     float: right;
 }
-
 li a {
     display: block;
     color: dodgerblue;
     text-align: center;
-    padding: 14px 16px;
+    padding: 15px 15px;
     text-decoration: none;
     list-style-type: none;
     opacity: 1.0;
 }
-
 /* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #1d1d1d;
 }
-
-body {
+html{
     background-image: url("images/blue.jpg");
 }
-
 .divider {
     border-left:1px solid white;
     border-right:1px solid black;
@@ -50,52 +42,14 @@ body {
     right:165px;
     top:10px;
 }
-img {
-    height: 400px;
-    width: 400px;
-
+h1 {
+    padding: 2px 70px;
+    font-family: "Apple Symbols";
+    color: #5fb6ff;
+    font-size: 40px;
 }
-.right {
-    color: white;
-}
-.left {
-    color: white;
-
-}
-#firstImage {
-    display: none;
-}
-#secondImage {
-
-}
-
-#thirdImage {
-    display: none;
-}
-
-#forthImage {
-    display: none;
-}
-
-#button1 {
-    color: dodgerblue;
-}
-#button2 {
-    color: dodgerblue;
-}
-#images {
-    margin-left: 40%;
-    margin-right: auto;
-}
-
-h1{
-    color: white;
-    font-style: oblique;
-    text-align: center;
-    font-size: 100px;
-
-    font-family: Apple Symbols;
-    background: linear-gradient(to right, black, black);
-    opacity: .9;
-
+p {
+    padding: 2px 70px;
+    font-family: "Apple Symbols";
+    color: #9559a9;
 }
